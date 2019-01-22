@@ -1,0 +1,14 @@
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Z5.exe.config
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Z5.exe
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Z5.pdb
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\korisnik\source\repos\Z5\Z5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.FormTV.resources
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.Properties.Resources.resources
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.csproj.CopyComplete
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.exe
+C:\Users\korisnik\source\repos\Z5\Z5\obj\Debug\Z5.pdb
